@@ -9,3 +9,7 @@ Answer: Data science can be applied to a varety of fields. One field it can be a
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging takes two branches and merges them into one, but it keeps the second branch while rebasing merges the two branches into one but gets rid of the second branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and how it applies to various fields of study.
